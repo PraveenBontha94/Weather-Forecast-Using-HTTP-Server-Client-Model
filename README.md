@@ -1,11 +1,5 @@
 # Weather Forecast Service Using HTTP Server-Client Model
 
-## Developed by:
-**B.V. Praveen (CS22B2033)**  
-Indian Institute of Information Technology Design and Manufacturing, Kancheepuram
-
----
-
 ## Overview
 
 This project implements a **client-server architecture in Python** to fetch and display real-time weather data using the [OpenWeather API](https://openweathermap.org/api). It demonstrates the fundamentals of HTTP-based communication, API integration, and basic socket programming.
