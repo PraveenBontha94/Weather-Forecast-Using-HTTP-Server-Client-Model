@@ -1,4 +1,3 @@
-# Weather-Forecast-Using-HTTP-Server-Client-Model
 # Weather Forecast Service Using HTTP Server-Client Model
 
 ## Developed by:
